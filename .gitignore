@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FlowAutomation_Example_1/obj/Debug
+/FlowAutomation_Example_1/bin/Debug
+/.vs/FlowAutomation_Example_1/v16
+/packages
