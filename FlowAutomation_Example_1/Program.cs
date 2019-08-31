@@ -12,7 +12,7 @@ using OpenQA.Selenium.Support.UI;
 namespace FlowAutomation_Example_1
 {
     // Follow FlowJoe and his journey via the links below
-    // Blog: https://flow-joe.github.io/
+    // Blog: https://www.flowjoe.io/
     // Twitter: https://www.twitter.com/flow_joe_
     // Youtube: https://www.youtube.com/channel/UCv4gsiyRjfB9NlvPPBd2a3g
     // This is a proof-of-concept for passing a Selenium based test result via a REST Post call throw a Microsoft Flow to provide a notification on the Flow Mobile Application
